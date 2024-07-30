@@ -1,0 +1,233 @@
+{
+    "type": "result",
+    "data": [
+        {
+            "id": 1,
+            "frase_del_dia": "El Señor es mi pastor, nada me falta.",
+            "categoria": "Biblia",
+            "autor": "Salmo 23:1"
+        },
+        {
+            "id": 2,
+            "frase_del_dia": "Amarás a tu prójimo como a ti mismo.",
+            "categoria": "Biblia",
+            "autor": "Mateo 22:39"
+        },
+        {
+            "id": 3,
+            "frase_del_dia": "Todo lo puedo en Cristo que me fortalece.",
+            "categoria": "Biblia",
+            "autor": "Filipenses 4:13"
+        },
+        {
+            "id": 4,
+            "frase_del_dia": "La paz os dejo, mi paz os doy.",
+            "categoria": "Biblia",
+            "autor": "Juan 14:27"
+        },
+        {
+            "id": 5,
+            "frase_del_dia": "Confía en el Señor con todo tu corazón.",
+            "categoria": "Biblia",
+            "autor": "Proverbios 3:5"
+        },
+        {
+            "id": 6,
+            "frase_del_dia": "El amor todo lo cree, todo lo espera, todo lo soporta.",
+            "categoria": "Biblia",
+            "autor": "1 Corintios 13:7"
+        },
+        {
+            "id": 7,
+            "frase_del_dia": "El que habita al abrigo del Altísimo morará bajo la sombra del Omnipotente.",
+            "categoria": "Biblia",
+            "autor": "Salmo 91:1"
+        },
+        {
+            "id": 8,
+            "frase_del_dia": "No temas, porque yo estoy contigo.",
+            "categoria": "Biblia",
+            "autor": "Isaías 41:10"
+        },
+        {
+            "id": 9,
+            "frase_del_dia": "Los planes de Dios son para nuestro bien, para darnos un futuro y una esperanza.",
+            "categoria": "Biblia",
+            "autor": "Jeremías 29:11"
+        },
+        {
+            "id": 10,
+            "frase_del_dia": "El Señor está cerca de los quebrantados de corazón.",
+            "categoria": "Biblia",
+            "autor": "Salmo 34:18"
+        },
+        {
+            "id": 11,
+            "frase_del_dia": "No te tomes la vida demasiado en serio; nunca saldrás vivo de ella.",
+            "categoria": "Humor",
+            "autor": "Elbert Hubbard"
+        },
+        {
+            "id": 12,
+            "frase_del_dia": "Soy un gran creyente en la suerte, y encuentro que cuanto más trabajo, más suerte tengo.",
+            "categoria": "Humor",
+            "autor": "Thomas Jefferson"
+        },
+        {
+            "id": 13,
+            "frase_del_dia": "No hay nada que haga más feliz a un hombre que hacer reír a una mujer.",
+            "categoria": "Humor",
+            "autor": "George Bernard Shaw"
+        },
+        {
+            "id": 14,
+            "frase_del_dia": "La vida es demasiado corta para no reírse de uno mismo.",
+            "categoria": "Humor",
+            "autor": "Anónimo"
+        },
+        {
+            "id": 15,
+            "frase_del_dia": "La comedia es una tragedia más un tiempo.",
+            "categoria": "Humor",
+            "autor": "Aristóteles"
+        },
+        {
+            "id": 16,
+            "frase_del_dia": "Ríe y el mundo reirá contigo. Llora y llorarás solo.",
+            "categoria": "Humor",
+            "autor": "Ella Wheeler"
+        },
+        {
+            "id": 17,
+            "frase_del_dia": "El sentido del humor es una de las mejores cosas que puedes tener.",
+            "categoria": "Humor",
+            "autor": "Anónimo"
+        },
+        {
+            "id": 18,
+            "frase_del_dia": "Si no te ríes de tus propios errores, no puedes reírte de los errores de los demás.",
+            "categoria": "Humor",
+            "autor": "Anónimo"
+        },
+        {
+            "id": 19,
+            "frase_del_dia": "El humor es la distancia más corta entre dos personas.",
+            "categoria": "Humor",
+            "autor": "George Bernard Shaw"
+        },
+        {
+            "id": 20,
+            "frase_del_dia": "La vida es una comedia para aquellos que piensan y una tragedia para aquellos que sienten.",
+            "categoria": "Humor",
+            "autor": "Horace Walpole"
+        },
+        {
+            "id": 21,
+            "frase_del_dia": "El único modo de hacer un gran trabajo es amar lo que haces.",
+            "categoria": "Motivación",
+            "autor": "Steve Jobs"
+        },
+        {
+            "id": 22,
+            "frase_del_dia": "No cuentes los días, haz que los días cuenten.",
+            "categoria": "Motivación",
+            "autor": "Muhammad Ali"
+        },
+        {
+            "id": 23,
+            "frase_del_dia": "La mayor gloria en la vida no radica en nunca caer, sino en levantarnos cada vez que caemos.",
+            "categoria": "Motivación",
+            "autor": "Nelson Mandela"
+        },
+        {
+            "id": 24,
+            "frase_del_dia": "El futuro pertenece a aquellos que creen en la belleza de sus sueños.",
+            "categoria": "Motivación",
+            "autor": "Eleanor Roosevelt"
+        },
+        {
+            "id": 25,
+            "frase_del_dia": "No importa cuán despacio vayas, siempre y cuando no te detengas.",
+            "categoria": "Motivación",
+            "autor": "Confucio"
+        },
+        {
+            "id": 26,
+            "frase_del_dia": "La vida es 10% lo que te sucede y 90% cómo reaccionas ante ello.",
+            "categoria": "Motivación",
+            "autor": "Charles R. Swindoll"
+        },
+        {
+            "id": 27,
+            "frase_del_dia": "La vida es un 10% lo que te sucede y un 90% cómo reaccionas ante ello.",
+            "categoria": "Motivación",
+            "autor": "Charles R. Swindoll"
+        },
+        {
+            "id": 28,
+            "frase_del_dia": "La única forma de hacer un gran trabajo es amar lo que haces.",
+            "categoria": "Motivación",
+            "autor": "Steve Jobs"
+        },
+        {
+            "id": 29,
+            "frase_del_dia": "No dejes que lo que no puedes hacer interfiera con lo que puedes hacer.",
+            "categoria": "Motivación",
+            "autor": "John Wooden"
+        },
+        {
+            "id": 30,
+            "frase_del_dia": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+            "categoria": "Motivación",
+            "autor": "Robert Collier"
+        },
+        {
+            "id": 31,
+            "frase_del_dia": "Amar no es solo mirar al otro, es mirar juntos en la misma dirección.",
+            "categoria": "Amor",
+            "autor": "Antoine de Saint-Exupéry"
+        },
+        {
+            "id": 32,
+            "frase_del_dia": "El amor es la única fuerza capaz de transformar un enemigo en amigo.",
+            "categoria": "Amor",
+            "autor": "Martin Luther King Jr."
+        },
+        {
+            "id": 33,
+            "frase_del_dia": "El amor verdadero no tiene final feliz, porque el amor verdadero nunca termina.",
+            "categoria": "Amor",
+            "autor": "Anónimo"
+        },
+        {
+            "id": 34,
+            "frase_del_dia": "El amor no mira con los ojos, sino con el alma.",
+            "categoria": "Amor",
+            "autor": "William Shakespeare"
+        },
+        {
+            "id": 35,
+            "frase_del_dia": "En el amor no se puede decir lo que se quiere, sino sentirlo.",
+            "categoria": "Amor",
+            "autor": "Anónimo"
+        },
+        {
+            "id": 36,
+            "frase_del_dia": "El amor es el deseo de dar lo mejor de uno mismo.",
+            "categoria": "Amor",
+            "autor": "Anónimo"
+        },
+        {
+            "id": 37,
+            "frase_del_dia": "Amar es encontrar en la felicidad del otro tu propia felicidad.",
+            "categoria": "Amor",
+            "autor": "Gottfried Leibniz"
+        },
+        {
+            "id": 38,
+            "frase_del_dia": "La única manera de hacer un gran trabajo es amar lo que haces.",
+            "categoria": "Amor",
+            "autor": "Steve Jobs"
+        }
+    ]
+}
